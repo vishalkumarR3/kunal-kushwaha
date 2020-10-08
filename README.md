@@ -23,6 +23,7 @@
 👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
+- Cloud Native Computing Foundation Intern ([The Linux Foundation]()) - Worked on [Thanos](https://github.com/thanos-io/thanos), highly available [Prometheus](https://github.com/prometheus/prometheus) setup with long term storage. Implemented features, context & actions to increase observability & control for BlockViewer.
 - Co-Founder and Instructor ([Code for Cause](https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg?view_as=subscriber)) - Started a community to provide education & mentorship to students globally & have **10k+ students** be a part in first 4 months.
 - [Google Summer of Code Mentor](https://drive.google.com/file/d/1RkfG8EeWwX2vy47A99rD_0EbHBUMCVqD/view?usp=sharing) (Red Hat Middleware) for improving Gradle support in the [Quarkus](https://github.com/quarkusio/quarkus) framework.
 - [Major League Hacking Fellow](https://dev.to/kunal/open-source-best-practices-mlh-fellowship-experience-43ee) - Contributed to Open Source projects written in JavaScript with a focus on the React ecosystem, & added new features in [Facebook's Jest](https://github.com/facebook/jest).
