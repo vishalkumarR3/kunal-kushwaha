@@ -39,6 +39,7 @@
 
 ### Honors & Awards 🏅
 - Received 1 in 550 rare [Community Hero badger](https://www.microsoft.com/skills/azureheroes) from Microsoft for organising meetups, conferences, sharing content and being an active member of the community.
+- Received a very rare [AI Ambassador badger](https://www.microsoft.com/skills/azureheroes) from Microsoft for organising, hosting and speaking at the Global AI Student Conference.
 - Selected as 1 of 500 recipients for the [Nutanix Hybrid Cloud Scholarship Program](https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program) designed to upskill professionals interested in using emerging cloud technologies to enhance their organization's IT infrastructure.
 - Selected as a recipient for the [Linux Foundation Training (LiFT) Scholarship](https://www.linuxfoundation.org/about/diversity-inclusiveness/lift-scholarships/) in the Developer Do-Gooders category.
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/), [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) in 2019 & 2020.
