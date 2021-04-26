@@ -23,8 +23,9 @@
 👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- Cloud Native Computing Foundation Intern ([The Linux Foundation]()) - Worked on [Thanos](https://github.com/thanos-io/thanos), highly available [Prometheus](https://github.com/prometheus/prometheus) setup with long term storage. Implemented features, context & actions to increase observability & control for BlockViewer.
+- Cloud Native Computing Foundation Intern ([The Linux Foundation](https://www.linuxfoundation.org)) - Worked on [Thanos](https://github.com/thanos-io/thanos), highly available [Prometheus](https://github.com/prometheus/prometheus) setup with long term storage. Implemented features, context & actions to increase observability & control for BlockViewer.
 - Co-Founder and Instructor ([Code for Cause](https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg?view_as=subscriber)) - Started a community to provide education & mentorship to students globally & have **50k+ students** be a part in the first few months.
+- Instructor - Code in Place (CS106A) ([Stanford University](https://codeinplace.stanford.edu)) - CS106A is one of most popular courses at Stanford University, taken by almost 1,600 students every year.
 - [MLH Coach](https://mlh.io/coaches) - Major League Hacking Coaches are community members who represent Major League Hacking at events. They are passionate hackers and community members who love to teach and support peers of all skill levels. MLH Coaches are at your events mentoring hackers, supporting organizers, debugging issues, and much more!
 - [MLH Fellowship Team Leader](https://fellowship.mlh.io) - Mentored students during the MLH Fellowship for Open Source projects (Flask, Jinja, Click, Kiwi, Werkzeug, Julia Language, BentoML, SciML) & debugged technical issues.
 - [Google Summer of Code Mentor](https://drive.google.com/file/d/1RkfG8EeWwX2vy47A99rD_0EbHBUMCVqD/view?usp=sharing) (Red Hat Middleware) for improving Gradle support in the [Quarkus](https://github.com/quarkusio/quarkus) framework.
