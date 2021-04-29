@@ -36,7 +36,7 @@
 - [Major League Hacking Fellow](https://dev.to/kunal/open-source-best-practices-mlh-fellowship-experience-43ee) - Contributed to Open Source projects written in JavaScript with a focus on the React ecosystem, & added new features in [Facebook's Jest](https://github.com/facebook/jest).
 - [Google Code-in Mentor](https://drive.google.com/file/d/1qHz5857X803hgwsrXFLqW8gPwMpZeqQH/view) (Red Hat Middleware) for [Kubernetes Java client](https://github.com/fabric8io/kubernetes-client), Web & Middleware technologies.
 - [Google Summer of Code Student](https://drive.google.com/file/d/13mp8w7dk2YWdvrPvg0gmCMxErgUbUza4/view?usp=sharing) Developer (Red Hat Middleware) - Worked on [fabric8io-Kubernetes Java client](https://github.com/fabric8io/kubernetes-client) for handling [Kubernetes](https://kubernetes.io) & [OpenShift](https://www.openshift.com) clusters.
-- TA & Instructor at [Coding Blocks](https://codingblocks.com) for Java, Python, Data Science & Machine Learning.
+- Teaching Assistant at [Coding Blocks](https://codingblocks.com) for Java, Python, Data Science & Machine Learning.
 - Python Mentor ([AnitaB.org](https://drive.google.com/file/d/1XBpBcEysVfEaJu2RY13pubkPu3AN4EwW/view?usp=sharing)) - Conducted doubt sessions & masterclasses for a group of **200+** students.
 - Instructor at workshops conducted by '[CodeChef for Schools](https://drive.google.com/open?id=1-gbv21BN66dY0K88pd8ir69VQ0C8ovUU)' for Competitive Programming.
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted workshops & webinars on DevOps, Open Source, Cloud, ML, Web Dev, etc.
