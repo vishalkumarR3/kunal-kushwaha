@@ -23,6 +23,9 @@
 👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
+- CNCF Ambassador - CNAs are individuals who are passionate about CNCF technology and projects, recognized for their expertise, and willing to help others learn about the framework and community.
+- [Kubernetes 1.22 Release Team Shadow](https://github.com/kubernetes/sig-release) - The Shadow system is an apprenticeship model, like those used by union tradespeople. The idea is that Shadows learn by doing, while in the process taking load off the leads and improving the release.
+- [Google Summer of Code Mentor](http://summerofcode.withgoogle.com) at Code for Cause helping students contribute to Open Source projects for social good under the umbrella of Red Hat Middleware.
 - Cloud Native Computing Foundation Intern ([The Linux Foundation](https://www.linuxfoundation.org)) - Worked on [Thanos](https://github.com/thanos-io/thanos), highly available [Prometheus](https://github.com/prometheus/prometheus) setup with long term storage. Implemented features, context & actions to increase observability & control for BlockViewer.
 - Co-Founder and Instructor ([Code for Cause](https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg?view_as=subscriber)) - Started a community to provide education & mentorship to students globally & have **50k+ students** be a part in the first few months.
 - Instructor - Code in Place (CS106A) ([Stanford University](https://codeinplace.stanford.edu)) - CS106A is one of most popular courses at Stanford University, taken by almost 1,600 students every year.
