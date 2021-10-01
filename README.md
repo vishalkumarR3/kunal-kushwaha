@@ -23,7 +23,9 @@
 👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
+- [Developer Advocate (Civo)](http://civo.com) - The first pure play cloud native service powered only by Kubernetes.
 - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) - CNAs are individuals who are passionate about CNCF technology and projects, recognized for their expertise, and willing to help others learn about the framework and community.
+- Student Program Manager - [Data on Kubernetes Community](http://dok.community) - Acting as a technical advisor to help scale the community & manage interns.
 - [Kubernetes 1.22 Release Team Shadow](https://github.com/kubernetes/sig-release) - The Shadow system is an apprenticeship model, like those used by union tradespeople. The idea is that Shadows learn by doing, while in the process taking load off the leads and improving the release.
 - [Google Summer of Code Mentor](http://summerofcode.withgoogle.com) at Code for Cause helping students contribute to Open Source projects for social good under the umbrella of Red Hat Middleware.
 - [GitHub Campus Expert](https://education.github.com/experts) - Student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. 
