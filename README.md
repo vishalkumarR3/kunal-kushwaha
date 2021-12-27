@@ -16,6 +16,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<br>
+<br />
+<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
