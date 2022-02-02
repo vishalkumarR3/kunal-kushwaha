@@ -22,4 +22,10 @@
 <br />
 <br />
 
+![](https://i.ibb.co/F38F21R/LinkedIn.jpg)
+
+Kunal is working towards empowering communities via Open Source and Education. He finds passion in teaching and has taught thousands of folks online and in person. He is currently a Developer Advocate at [Civo](https://www.civo.com), [CNCF Ambassador](https://www.cncf.io/people/ambassadors/), track chair of the KubeCon + CloudNativeCon student track, [GitHub Campus Expert](https://education.github.com/experts), [Major League Hacking](https://mlh.io) Coach, Gold [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com). In the past, he has been a [Google Summer of Code](https://summerofcode.withgoogle.com) Mentor at Red Hat Middleware, Student Program Manager at [Data on Kubernetes Community](https://dok.community), part of the Kubernetes release team and the Major League Hacking [Fellowship](https://fellowship.mlh.io).
+
+He is the founder of [Community Classroom](https://www.commclassroom.org), an organisation focussed on providing training & mentorship, free of cost. He also started the official [Cloud Native Student Community](https://twitter.com/CNCFStudents) group joined by thousands of students, focussed on getting more young people involved in the ecosystem. These platforms are utilised by conducting hands-on workshops, events, podcasts, and sharing about opportunities in the field.
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
