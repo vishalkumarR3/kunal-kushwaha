@@ -18,6 +18,9 @@
 <a href="https://www.instagram.com/kunalsig/">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
+<a href="https://www.snapchat.com/add/kunalonsc">
+  <img align="left" width="26px" src="https://pngimg.com/uploads/snapchat/snapchat_PNG14.png" />
+</a>
 
 <br />
 <br />
